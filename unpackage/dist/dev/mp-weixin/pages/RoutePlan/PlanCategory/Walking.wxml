@@ -1,0 +1,1 @@
+<view><route-line vue-id="2969527f-1" routes="{{routes}}" modeCat="步行" bind:__l="__l"></route-line></view>

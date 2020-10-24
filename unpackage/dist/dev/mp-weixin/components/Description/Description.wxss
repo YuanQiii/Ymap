@@ -1,0 +1,58 @@
+
+.ad-operate.data-v-ba77b784 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.ad-search.data-v-ba77b784{
+	width: 40rpx;
+	height: 40rpx;
+	margin-top: 35rpx;
+	margin-right: 1rem;
+}
+.ad-route.data-v-ba77b784 {
+	width: 45rpx;
+	height: 45rpx;
+	margin-top: 35rpx;
+	margin-right: 40rpx;
+}
+.ad-bottom.data-v-ba77b784 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.cover-view.data-v-ba77b784 {
+	color: #eeeeee;
+	background-color: #393e46;
+	padding: 1rem 0;
+	width: 100vw;
+	height: 15vh;
+}
+.ad-name.data-v-ba77b784 {
+	padding: 0 1rem;
+	font-size: 1.2rem;
+	overflow: hidden;
+	word-wrap: normal;
+	text-overflow: ellipsis;
+	z-index: 9;
+}
+.ad-info.data-v-ba77b784 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: .8rem;
+	margin-top: 15rpx;
+}
+.ad-distance.data-v-ba77b784 {
+	padding: 0 1rem;
+	margin-top: .8rem;
+	border-right: solid 1px #00adb5;
+}
+.ad-street.data-v-ba77b784 {
+	padding: 0 1rem;
+	margin-top: .8rem;
+}
+

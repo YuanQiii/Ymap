@@ -1,0 +1,18 @@
+
+.td-dl.data-v-635e6f7f {
+	margin: 0 .5rem;
+}
+.td-title.data-v-635e6f7f {
+	font-size: 1rem;
+	margin-bottom: .5rem;
+}
+.td-lines-descripton.data-v-635e6f7f {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	margin-bottom: 1rem;
+	font-size: .9rem;
+}
+

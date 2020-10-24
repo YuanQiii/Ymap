@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "Y_Map",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "description": "/components/Description/Description",
+    "search": "/components/Search/Search",
+    "route-plan": "/pages/RoutePlan/RoutePlan",
+    "controls": "/components/Controls/Controls"
+  }
+}

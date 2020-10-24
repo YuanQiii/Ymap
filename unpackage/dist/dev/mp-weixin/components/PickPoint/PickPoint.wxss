@@ -1,0 +1,15 @@
+
+.pp-main.data-v-4a6daf24 {
+	width: 100vw;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	color: #EEEEEE;
+}
+.pp-item.data-v-4a6daf24 {
+	margin: .3rem 1.5rem;
+}
+

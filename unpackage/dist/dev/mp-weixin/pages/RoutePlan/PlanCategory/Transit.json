@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "transit-description": "/pages/RoutePlan/RouteDescription/TransitDescription",
+    "transit-detail": "/pages/RoutePlan/RouteDescription/TransitDetail"
+  }
+}

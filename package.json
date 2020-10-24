@@ -1,0 +1,16 @@
+{
+  "name": "Y_Map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "0.0.4",
+    "vue-amap": "^0.5.10"
+  }
+}

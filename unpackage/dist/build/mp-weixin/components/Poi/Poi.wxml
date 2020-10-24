@@ -1,0 +1,1 @@
+<cover-view class="p-main data-v-8a91996e"><block wx:for="{{list}}" wx:for-item="value" wx:for-index="index" wx:key="index"><cover-view data-event-opts="{{[['tap',[['sendKey',['$0'],[[['list','',index]]]]]]]}}" class="p-item data-v-8a91996e" bindtap="__e">{{''+value+''}}</cover-view></block></cover-view>

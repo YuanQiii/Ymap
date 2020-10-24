@@ -1,0 +1,26 @@
+
+.error.data-v-a005e27e {
+	text-align: center;
+	line-height: 3rem;
+}
+.transit-swiper.data-v-a005e27e {
+	height: 14vh;
+}
+.transit-back.data-v-a005e27e {
+	width: 3rem;
+	height: 3rem;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.transit-back-img.data-v-a005e27e {
+	width: 30rpx;
+	height: 30rpx;
+}
+

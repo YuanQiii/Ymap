@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "transit": "/pages/RoutePlan/PlanCategory/Transit",
+    "walking": "/pages/RoutePlan/PlanCategory/Walking",
+    "driving": "/pages/RoutePlan/PlanCategory/Driving",
+    "bicycling": "/pages/RoutePlan/PlanCategory/Bicycling"
+  }
+}

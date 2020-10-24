@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "路线方案",
+  "usingComponents": {
+    "route-nav": "/pages/RoutePlan/RouteNav",
+    "route-detail": "/pages/RoutePlan/RouteDetail",
+    "route-position": "/pages/RoutePlan/RoutePosition"
+  }
+}

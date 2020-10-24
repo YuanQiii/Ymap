@@ -1,0 +1,21 @@
+
+.controls-scale.data-v-504c3ac4 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.controls-main.data-v-504c3ac4 {
+	height: 45rpx;
+	margin-left: 1rem;
+	margin-top: 1rem;
+}
+.controls-decrease.data-v-504c3ac4 {
+}
+.controls-satellite.data-v-504c3ac4, .controls-traffic.data-v-504c3ac4 {
+}
+.img.data-v-504c3ac4 {
+	height: 45rpx;
+	width: 45rpx;
+	margin-right: 1rem;
+}
+

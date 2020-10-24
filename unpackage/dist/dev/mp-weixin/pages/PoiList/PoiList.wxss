@@ -1,0 +1,22 @@
+
+.PoiList-title.data-v-9937ae50 {
+	margin-bottom: 1rem;
+}
+.PoiList-main.data-v-9937ae50 {
+	padding: 1rem;
+	background-color: #393e46;
+	color: #eeeeee;
+}
+.PoiList-item.data-v-9937ae50 {
+	line-height: 1.4rem;
+	width: 4rem;
+	padding-right: 1rem;
+}
+.PoiList-desc.data-v-9937ae50 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+

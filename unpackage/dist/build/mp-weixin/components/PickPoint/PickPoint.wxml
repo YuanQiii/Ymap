@@ -1,0 +1,1 @@
+<cover-view class="pp-main data-v-7b8e9524"><cover-view data-event-opts="{{[['tap',[['getPosition',['map']]]]]}}" class="pp-item data-v-7b8e9524" bindtap="__e">地图选点</cover-view><cover-view data-event-opts="{{[['tap',[['getPosition',['mine']]]]]}}" class="pp-item data-v-7b8e9524" bindtap="__e">我的位置</cover-view></cover-view>

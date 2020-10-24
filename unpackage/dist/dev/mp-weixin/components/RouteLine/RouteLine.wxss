@@ -1,0 +1,41 @@
+
+.rl-rl.data-v-51280100 {
+	margin-right: 1rem;
+}
+.rl-img.data-v-51280100 {
+	width: 40rpx;
+	height: 40rpx;
+	position: relative;
+	margin-top: .6rem;
+}
+.rl-step.data-v-51280100 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-bottom: 1rem;
+	position: relative;
+}
+.rl-road-name.data-v-51280100, .rl-dis.data-v-51280100 {
+	margin-left: 1rem;
+}
+.rl-dis.data-v-51280100 {
+	font-size: .9rem;
+}
+.rl-distance.data-v-51280100 {
+	margin-left: 2rem;
+}
+.rl-head.data-v-51280100 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	margin-bottom: 1rem;
+}
+.rl-info.data-v-51280100 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+

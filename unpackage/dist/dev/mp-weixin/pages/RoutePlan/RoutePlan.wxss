@@ -1,0 +1,24 @@
+
+.rp-route-detail.data-v-0ef672a8 {}
+.route-position.data-v-0ef672a8 {
+	left: 10rpx;
+	position: fixed;
+	width: 100%;
+	z-index: 9;
+}
+.rp-main.data-v-0ef672a8 {
+	min-height: 100vh;
+	background-color: #393e46;
+	color: #eeeeee;
+}
+.route-nav.data-v-0ef672a8 {
+	z-index: 9;
+	position: fixed;
+	width: 100%;
+	top: 5rem;
+}
+.rp-scroll.data-v-0ef672a8 {
+	padding-top: 8rem;
+	padding-bottom: 1rem;
+}
+

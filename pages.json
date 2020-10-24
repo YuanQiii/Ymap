@@ -1,0 +1,29 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "Y_Map"
+			}
+		},
+		{
+			"path": "pages/RoutePlan/RoutePlan",
+			"style": {
+				"navigationBarTitleText": "路线方案"
+			}
+		},
+		{
+			"path": "pages/PoiList/PoiList",
+			"style": {
+				"navigationBarTitleText": "更多"
+			}
+		}
+	],
+
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#393e46",
+		"backgroundColor": "#393e46"
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "history-record": "/components/HistoryRecord/HistoryRecord",
+    "poi": "/components/Poi/Poi",
+    "pick-point": "/components/PickPoint/PickPoint"
+  }
+}

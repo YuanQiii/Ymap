@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "controls": "/components/Controls/Controls"
+  }
+}

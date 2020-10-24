@@ -1,0 +1,29 @@
+
+.res-item.data-v-27f38178 {
+	border-bottom: solid 1px #00adb5;
+}
+.res-title.data-v-27f38178 {
+	font-size: .9rem;
+	margin-top: .3rem;
+}
+.res-address.data-v-27f38178 {
+	font-size: .8rem;
+	overflow: hidden;
+	word-wrap: normal;
+	text-overflow: ellipsis;
+	margin-bottom: .4rem;
+	margin-top: .3rem;
+}
+.search-res.data-v-27f38178 {
+	color: #EEEEEE;
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+.search-bar.data-v-27f38178 {
+	height: 90vh;
+	background-color: #393e46;
+	opacity: .8;
+	z-index: 999;
+	position: relative;
+}
+

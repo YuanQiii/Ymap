@@ -1,0 +1,17 @@
+
+.p-main.data-v-3280f2da {
+	
+	margin-left: -2rem;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: space-evenly;
+	-webkit-justify-content: space-evenly;
+	        justify-content: space-evenly;
+	color: #EEEEEE;
+}
+.p-item.data-v-3280f2da {
+	line-height: 1.5rem;
+	margin-bottom: 1rem;
+}
+
